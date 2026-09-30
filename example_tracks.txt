@@ -1,0 +1,7 @@
+# Формат: Artist - Title, по одному треку в строке. Строки с # игнорируются.
+
+Dire Straits - Sultans of Swing
+Земфира - Искала
+Pink Floyd – Comfortably Numb
+The Beatles - Totally Unknown Track Name 12345
+Просто название без исполнителя
